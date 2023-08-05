@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Intents Challenge</string>
+    <string name="contacts_app">Contacts App</string>
+    <string name="create_contact">Create Contact</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_website">Enter website</string>
+    <string name="enter_address">Enter address</string>
+    <string name="man">Man</string>
+    <string name="woman">woman</string>
+    <string name="boy">boy</string>
+    <string name="girl">girl</string>
+    <string name="person">Person</string>
+    <string name="call">call</string>
+    <string name="website">website</string>
+    <string name="address">address</string>
+</resources>
